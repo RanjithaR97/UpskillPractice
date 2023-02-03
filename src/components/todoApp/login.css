@@ -1,0 +1,34 @@
+.login{
+    width: 100px;
+    font-size:large;
+    bottom: 450px;
+    height: 30px;
+    font-style: oblique;
+    text-align:justify;
+    position:absolute;
+    left: 600px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+}
+.footer{
+    position:absolute;
+    bottom: 0;
+    width:100%;
+    height:40px;
+    background-color: #222222;
+}
+.right{
+    position: relative;
+    right: -500px;
+}
+.left{
+    position: relative;
+    left: -500px;
+    border-top-left-radius: 0;
+}
+
+
+.Loginc{
+    align-items: center;
+    bottom: 0%;
+}
